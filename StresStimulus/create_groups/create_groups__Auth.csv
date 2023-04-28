@@ -1,2 +1,2 @@
 "domain","username","pass","host","group","cert","agent"
-"https://persistent256-dev-ed.develop.my.salesforce.com/","sunny_naik@persistent.sandbox","STx@1234",,,,
+"https://org-789-dev-ed.develop.my.salesforce.com/","username@org.sandbox","*****",,,,
